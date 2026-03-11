@@ -5,6 +5,7 @@ public class DadosPrimitivos {
 
         /*Dados Primitivos
         * int, double, float, char, boolean, short
+        * Tipos primitivos não recebem nenhum metodo
         */
 
         int idade = 16;
